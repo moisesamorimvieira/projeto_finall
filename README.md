@@ -42,7 +42,8 @@ O sistema é composto por:
 •	Servo motor para controlar fisicamente a tranca.
 •	Buzzer e LED para fornecer feedback sonoro e visual ao usuário sobre as ações realizadas.
 O usuário interage com o sistema inserindo uma senha. Se a senha for correta, a tranca é liberada ou acionada. O sistema também permite que o usuário altere a senha após inserção correta, e o status da tranca será exibido no display.
-Justificativa
+
+## Justificativa
 A segurança em ambientes fechados é uma preocupação crescente. Sistemas tradicionais de trancas muitas vezes são ineficazes ou difíceis de usar. Este projeto visa oferecer uma solução simples, acessível e altamente funcional para aumentar a segurança com um baixo custo, utilizando um sistema embarcado e controlado por senha.
 Originalidade
 Embora existam vários projetos de trancas eletrônicas, a originalidade deste projeto reside na integração simples e eficiente de todos os componentes (hardware e software) usando a plataforma BitDogLab. A funcionalidade de alteração de senha no próprio sistema, sem a necessidade de interfaces complexas, também é um diferencial.
@@ -58,23 +59,6 @@ Embora existam vários projetos de trancas eletrônicas, a originalidade deste p
 4. **Software de emulação PuTTy. (Opcional para testes)**
 5. **Extensões no VScode do Raspberry Pi Pico Project e CMake**
 6. **Wokwi**;
-
-## 🔧 Requisitos do Projeto:
-
-Para o desenvolvimento, devem ser seguidos os seguintes requisitos:
-1. Uso de interrupções: Todas as funcionalidades relacionadas aos botões devem ser implementadas utilizando rotinas de interrupção (IRQ).
-2. Debouncing: É obrigatório implementar o tratamento do bouncing dos botões via software.
-3. Utilização do Display 128 x 64: A utilização de ferramentas gráficas demonstrará o entendimento do princípio de funcionamento do display, bem como, a utilização do protocolo I2C.
-4. Organização do código: O código deve estar bem estruturado e comentado para facilitar o entendimento.
-
-## Entrega: Os seguintes itens devem ser entregues:
-Código: O código-fonte do projeto deve ser entregue em um link do seu repositório, contendo todos os arquivos necessários para sua execução.
-Vídeo de demonstração: Deve ser produzido um vídeo de até 2 minutos, contendo:
-• O aluno aparecendo pessoalmente para demonstrar o funcionamento do projeto.
-• Uma explicação breve das funcionalidades implementadas.
-• A execução do projeto na placa BitDogLab.
-• Link do vídeo no Youtube ou Google Drive.
-
 
 ## 💻 Desenvolvedor
  
