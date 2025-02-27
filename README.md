@@ -96,7 +96,7 @@ Vídeo de demonstração: Deve ser produzido um vídeo de até 2 minutos, conten
 <figcaption>
 
 
-**Figura 1** - Demo do Projeto no Youtube.com - Acessível em: https://www.youtube.com/watch?v=OHDCXNDqpP8
+**Figura 1** - Demo do Projeto no Youtube.com - Acessível em: https://www.youtube.com/watch?v=3v05z22bxIc
                Demo do Projeto no WOKWI - Acessível em: https://wokwi.com/projects/423797032974337025
     </figcaption>
   </figure>
