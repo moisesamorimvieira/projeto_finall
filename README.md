@@ -56,7 +56,7 @@ Embora existam vários projetos de trancas eletrônicas, a originalidade deste p
 1. **Git e Github**;
 2. **VScode**;
 3. **Linguagem C**;
-4. **Software de emulação PuTTy. (Opcional para testes)**
+4. **Software de emulação PuTTy. (Opcional)**
 5. **Extensões no VScode do Raspberry Pi Pico Project e CMake**
 6. **Wokwi**;
 
